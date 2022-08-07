@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bio
 
-<!--
-**msimile/msimile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World!👋
+<br> 
+<br>
+My name is Marco, and I'm studying to become a Full Stack Developer 🚀
 
-Here are some ideas to get you started:
+### Info 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning code at Develhope Coding School
+- 👨🏻‍💻 Coding Languages: HTML, CSS, JavaScript
+- 🔭 Currently working on a team project (<a href="https://github.com/msimile/ea_website_team1">EA Web Site</a>) at Develhope
+- 📫 You can reach me at my LinkedIn profile: https://www.linkedin.com/in/marco-simile-636b8b21b/
