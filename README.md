@@ -3,7 +3,7 @@
 Hello World!👋
 <br> 
 <br>
-My name is Marco, and I'm studying to become a Full Stack Developer 🚀
+My name is Marco, and I'm on my way to become a Full Stack Developer 🚀
 
 ### Info 
 
